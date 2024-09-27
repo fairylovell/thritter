@@ -1,0 +1,16 @@
+{
+    "twitter_credentials": {
+        "username": "oliver_radegasd",
+        "email": "oliver.radegasd@gmail.com",
+        "password": "u3k%!NXiI_anPc2"
+    },
+    "bot_settings": [
+        {
+            "threads_credentials": {
+                "username": "aicommunitytweets",
+                "password": "bananik41820"
+            },
+            "tracked_twitter_accounts": ["ScienceMagazine"]
+        }
+    ]
+}
